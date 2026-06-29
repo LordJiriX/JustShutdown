@@ -1,0 +1,6 @@
+name: JustShutdown
+version: '1.0-SNAPSHOT'
+main: io.github.lordjirix.justShutdown.JustShutdown
+api-version: '1.21'
+authors: [ LordJiriX ]
+description: Simple & Hybrid
